@@ -1,5 +1,3 @@
-reports
-deploy/*.jar
 logs
 .project
 .settings
