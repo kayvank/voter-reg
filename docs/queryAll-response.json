@@ -1,0 +1,14 @@
+[
+  {
+    "issue_id": "issue-123",
+    "votes": [
+      {
+        "voter_id": "session-123",
+        "budget-amount": 123.09,
+        "currency": "BTC",
+        "comment": "some-comment",
+        "timestamp": 123456
+      }
+    ]
+  }
+]
